@@ -361,5 +361,4 @@ public static boolean doLoanCamcorder(ArrayList<Camcorder> camcorderList, String
 			System.out.println("Chromebook " + tag + " returned");
 		}
 	}
-
 }
