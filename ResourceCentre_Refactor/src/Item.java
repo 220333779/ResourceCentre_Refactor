@@ -19,6 +19,7 @@ public class Item {
 				description,
 				showAvailability(isAvailable),
 				dueDate);
+	
 		return itemInfo;
 	}
 				
